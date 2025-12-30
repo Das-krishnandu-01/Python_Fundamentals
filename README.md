@@ -1,4 +1,4 @@
-# Python_Playground
+# Python_Fundamentals
 This repository contains a collection of Python scripts from my Data Analysis and Programming lab course, covering Units 1 through 5.
 
 ## Program Topics Covered
